@@ -9,7 +9,8 @@
 * [License](#license)
 
 # Preface
---
+
+This repository was created with great care. Please report any errors or issues you encounter. However, I assume no liability for damages, misconfigurations, or unintended consequences arising from its use.
 
 # About this repo
 
